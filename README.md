@@ -1,0 +1,3 @@
+- Khairul Ariandi Rida/181401130
+- Ini adalah 3D model dari bangunan di kota Mekah bernama ka'bah,                berbentuk kubus dan berwarna hitam.
+- Tombol "x" dan "c" untuk memutar sumbu x, tombol "z" untuk memutar sumbu z, dan tombol "t" dan "y" untuk memutar sumbu y, serta tombol "=" untuk zoom in serta "-" untuk zoom out.  
